@@ -1,0 +1,3 @@
+[submodule "assign1"]
+	path = assign1
+	url = git@github.com:OSU-CS492-W18/assignment-1-nickywongdong.git
