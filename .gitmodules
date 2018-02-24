@@ -1,3 +1,12 @@
 [submodule "assign1"]
 	path = assign1
 	url = git@github.com:OSU-CS492-W18/assignment-1-nickywongdong.git
+[submodule "assign2"]
+	path = assign2
+	url = git@github.com:OSU-CS492-W18/assignment-2-nickywongdong.git
+[submodule "assign3"]
+	path = assign3
+	url = git@github.com:OSU-CS492-W18/assignment-3-nickywongdong.git
+[submodule "final"]
+	path = final
+	url = git@github.com:OSU-CS492-W18/final-project-team-3-smart-hashtag-generator.git
