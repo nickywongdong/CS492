@@ -10,3 +10,6 @@
 [submodule "final"]
 	path = final
 	url = git@github.com:OSU-CS492-W18/final-project-team-3-smart-hashtag-generator.git
+[submodule "assign4"]
+	path = assign4
+	url = git@github.com:OSU-CS492-W18/assignment-4-nickywongdong.git
